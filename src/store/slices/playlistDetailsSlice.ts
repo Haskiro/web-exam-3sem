@@ -17,9 +17,9 @@ export const fetchPlaylistById = createAsyncThunk(
 	"playlistDetails/fetchPlaylist",
 	async (id: string) => {
 		const response = await axios.get(
-			`${process.env.REACT_APP_API}/playlists/${id}`
+			`${process.env.REACT_APP_API}/playlists.json`
 		);
-		return response.data;
+		return response.data.find((playlist: IPlaylist) => playlist.id == id);
 	}
 );
 

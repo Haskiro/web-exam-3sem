@@ -1,6 +1,5 @@
 import { FC, useState } from "react";
 import Burger from "@assets/icons/burger.svg";
-import { useAppDispatch, useAppSelector } from "@store/hooks";
 import cn from "classnames";
 import { Link, NavLink } from "react-router-dom";
 import styles from "./HeaderMain.module.scss";
@@ -16,7 +15,9 @@ const HeaderMain: FC<HeaderProps> = () => {
 					<Link to="/" className={styles.text}>
 						Павел
 					</Link>
-					<button className={styles.button}>Выйти</button>
+					<button className={styles.button}>
+						<Link to="/auth">Выйти</Link>
+					</button>
 				</div>
 				<nav
 					className={cn(styles.nav, {

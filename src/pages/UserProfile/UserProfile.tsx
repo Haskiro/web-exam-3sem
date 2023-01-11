@@ -1,5 +1,5 @@
 import { FC } from "react";
-import UserPhotoPlug from "@assets/images/user-photo-plug.png";
+import UserPhotoPlug from "@assets/images/user-photo-plug.jpeg";
 import Spinner from "@components/Spinner";
 
 import styles from "./UserProfile.module.scss";

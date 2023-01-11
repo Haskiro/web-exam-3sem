@@ -1,10 +1,10 @@
 export interface ArtistData {
-	id: number;
+	id: number | string;
 	nickname: string;
 }
 
 export interface ITrack {
-	id: number;
+	id: number | string;
 	artists_data: ArtistData[];
 	title: string;
 	audio_file: string;

@@ -17,7 +17,7 @@ export const fetchPlaylists = createAsyncThunk(
 	"playlists/fetchPlaylists",
 	async () => {
 		const response = await axios.get(
-			`${process.env.REACT_APP_API}/playlists`
+			`${process.env.REACT_APP_API}/playlists.json`
 		);
 		return response.data;
 	}

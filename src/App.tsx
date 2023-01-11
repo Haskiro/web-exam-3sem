@@ -1,3 +1,6 @@
+import AuthPage from "@pages/AuthPage";
+import LoginForm from "@pages/AuthPage/components/LoginForm";
+import RegisterForm from "@pages/AuthPage/components/RegisterForm/RegisterForm";
 import ContentPageLayout from "@pages/ContentPageLayout";
 import PlaylistDetailsPage from "@pages/PlaylistDetailsPage";
 import PlaylistsPage from "@pages/PlaylistsPage";
@@ -17,6 +20,10 @@ function App() {
 							path="playlists/:id"
 							element={<PlaylistDetailsPage />}
 						/>
+					</Route>
+					<Route path="/auth" element={<AuthPage />}>
+						<Route index element={<LoginForm />} />
+						<Route path="reg" element={<RegisterForm />} />
 					</Route>
 					<Route
 						path="*"
