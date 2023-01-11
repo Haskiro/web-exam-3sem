@@ -9,7 +9,7 @@ const { Search } = Input;
 
 const PlaylistsPage: FC = () => {
 	const dispatch = useAppDispatch();
-	const [sortByAlphabet, setSortByAlphabet] = useState<boolean>(true);
+	const [sortByAlphabet, setSortByAlphabet] = useState<boolean>(false);
 	const [searchValue, setSearchValue] = useState<string>("");
 	const playlists = useAppSelector((state) => state.playlists.playlists);
 	const status = useAppSelector((state) => state.playlists.status);

@@ -44,6 +44,7 @@ const UserProfile: FC = () => {
 			<div className={styles.body}>
 				<p className={styles.text}>{user.bio}</p>
 			</div>
+			<h2 className={styles.formHeading}>Редактировать Профиль</h2>
 			<Form
 				name="control-ref"
 				labelCol={{ span: 3 }}

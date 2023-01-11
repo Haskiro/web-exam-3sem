@@ -11,8 +11,8 @@
 					}
 				],
 				"title": "Небо",
-				"audio_file": "http://localhost:3000/media/tracks/audio/MiyaGi_Nebo.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/Miyagi_nebo_cover.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/MiyaGi_Nebo.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/Miyagi_nebo_cover.jpeg",
 				"released_at": "2016-05-11"
 			},
 			{
@@ -24,8 +24,8 @@
 					}
 				],
 				"title": "Orange Sunset",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Andy_Panda_-_Orange_Sunset_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/orange_sunset.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Andy_Panda_-_Orange_Sunset_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/orange_sunset.jpeg",
 				"released_at": "2019-03-11"
 			},
 			{
@@ -37,14 +37,14 @@
 					}
 				],
 				"title": "Live Another Day",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Kordhell_-_Death_Bound_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/phonkageddon.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Kordhell_-_Death_Bound_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/phonkageddon.jpeg",
 				"released_at": "2021-05-06"
 			}
 		],
 		"title": "Random Music",
 		"description": "Рандомная подборка музыки различных жанров и стилей",
-		"cover": "http://localhost:3000/media/playlists/covers/Random.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/Random.jpeg"
 	},
 	{
 		"id": 2,
@@ -58,8 +58,8 @@
 					}
 				],
 				"title": "Небо",
-				"audio_file": "http://localhost:3000/media/tracks/audio/MiyaGi_Nebo.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/Miyagi_nebo_cover.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/MiyaGi_Nebo.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/Miyagi_nebo_cover.jpeg",
 				"released_at": "2016-05-11"
 			},
 			{
@@ -71,8 +71,8 @@
 					}
 				],
 				"title": "Captain",
-				"audio_file": "http://localhost:3000/media/tracks/audio/miyagi_-_captain_muzati.net.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/captain.jpg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/miyagi_-_captain_muzati.net.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/captain.jpg",
 				"released_at": "2019-06-12"
 			},
 			{
@@ -84,8 +84,8 @@
 					}
 				],
 				"title": "Sorry",
-				"audio_file": "http://localhost:3000/media/tracks/audio/miyagi-sorry.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/sorry.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/miyagi-sorry.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/sorry.jpeg",
 				"released_at": "2019-06-12"
 			},
 			{
@@ -97,8 +97,8 @@
 					}
 				],
 				"title": "Самурай",
-				"audio_file": "http://localhost:3000/media/tracks/audio/miyagi-samurajj.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/samurai.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/miyagi-samurajj.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/samurai.jpeg",
 				"released_at": "2019-06-12"
 			},
 			{
@@ -110,8 +110,8 @@
 					}
 				],
 				"title": "Orange Sunset",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Andy_Panda_-_Orange_Sunset_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/orange_sunset.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Andy_Panda_-_Orange_Sunset_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/orange_sunset.jpeg",
 				"released_at": "2019-03-11"
 			},
 			{
@@ -127,14 +127,14 @@
 					}
 				],
 				"title": "Endorphine",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Andy_Panda_Miyagi_-_Endorphin_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/endorphine.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Andy_Panda_Miyagi_-_Endorphin_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/endorphine.jpeg",
 				"released_at": "2019-03-11"
 			}
 		],
 		"title": "Miyagi & Andy Panda",
 		"description": "Подборка Музыки таких исполнителей, как Miyagi и Andy Panda",
-		"cover": "http://localhost:3000/media/playlists/covers/MiyagiAndy_Panda.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/MiyagiAndy_Panda.jpeg"
 	},
 	{
 		"id": 3,
@@ -148,14 +148,14 @@
 					}
 				],
 				"title": "unravel",
-				"audio_file": "http://localhost:3000/media/tracks/audio/tk-from-ling-tosite-sigure-unravel_muzzona.kz.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/unravel.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/tk-from-ling-tosite-sigure-unravel_muzzona.kz.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/unravel.jpeg",
 				"released_at": "2022-07-03"
 			}
 		],
 		"title": "Музыка из аниме",
 		"description": "Музыкальные композиции из всемирно известных аниме сериалов. Будет дополняться",
-		"cover": "http://localhost:3000/media/playlists/covers/anime.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/anime.jpeg"
 	},
 	{
 		"id": 4,
@@ -169,8 +169,8 @@
 					}
 				],
 				"title": "Captain",
-				"audio_file": "http://localhost:3000/media/tracks/audio/miyagi_-_captain_muzati.net.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/captain.jpg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/miyagi_-_captain_muzati.net.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/captain.jpg",
 				"released_at": "2019-06-12"
 			},
 			{
@@ -182,8 +182,8 @@
 					}
 				],
 				"title": "Самурай",
-				"audio_file": "http://localhost:3000/media/tracks/audio/miyagi-samurajj.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/samurai.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/miyagi-samurajj.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/samurai.jpeg",
 				"released_at": "2019-06-12"
 			},
 			{
@@ -195,8 +195,8 @@
 					}
 				],
 				"title": "I WANT A BILLION",
-				"audio_file": "http://localhost:3000/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/i_want_a_billion.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/i_want_a_billion.jpeg",
 				"released_at": "2022-07-03"
 			},
 			{
@@ -208,14 +208,14 @@
 					}
 				],
 				"title": "God's menu",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Stray_Kids_-_Gods_Menu_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/gods_menu.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Stray_Kids_-_Gods_Menu_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/gods_menu.jpeg",
 				"released_at": "2022-07-03"
 			}
 		],
 		"title": "Новинки хип-хопа",
 		"description": "Самые свежие треки от любимых вами исполнителей",
-		"cover": "http://localhost:3000/media/playlists/covers/hip-hop_new.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/hip-hop_new.jpeg"
 	},
 	{
 		"id": 5,
@@ -229,8 +229,8 @@
 					}
 				],
 				"title": "Небо",
-				"audio_file": "http://localhost:3000/media/tracks/audio/MiyaGi_Nebo.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/Miyagi_nebo_cover.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/MiyaGi_Nebo.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/Miyagi_nebo_cover.jpeg",
 				"released_at": "2016-05-11"
 			},
 			{
@@ -242,8 +242,8 @@
 					}
 				],
 				"title": "Sorry",
-				"audio_file": "http://localhost:3000/media/tracks/audio/miyagi-sorry.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/sorry.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/miyagi-sorry.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/sorry.jpeg",
 				"released_at": "2019-06-12"
 			},
 			{
@@ -255,8 +255,8 @@
 					}
 				],
 				"title": "Live Another Day",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Kordhell_-_Death_Bound_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/phonkageddon.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Kordhell_-_Death_Bound_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/phonkageddon.jpeg",
 				"released_at": "2021-05-06"
 			},
 			{
@@ -268,8 +268,8 @@
 					}
 				],
 				"title": "unravel",
-				"audio_file": "http://localhost:3000/media/tracks/audio/tk-from-ling-tosite-sigure-unravel_muzzona.kz.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/unravel.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/tk-from-ling-tosite-sigure-unravel_muzzona.kz.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/unravel.jpeg",
 				"released_at": "2022-07-03"
 			},
 			{
@@ -281,14 +281,14 @@
 					}
 				],
 				"title": "I WANT A BILLION",
-				"audio_file": "http://localhost:3000/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/i_want_a_billion.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/i_want_a_billion.jpeg",
 				"released_at": "2022-07-03"
 			}
 		],
 		"title": "Ranom Music 2",
 		"description": "Рандомная подборка треков",
-		"cover": "http://localhost:3000/media/playlists/covers/random2.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/random2.jpeg"
 	},
 	{
 		"id": 6,
@@ -302,8 +302,8 @@
 					}
 				],
 				"title": "unravel",
-				"audio_file": "http://localhost:3000/media/tracks/audio/tk-from-ling-tosite-sigure-unravel_muzzona.kz.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/unravel.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/tk-from-ling-tosite-sigure-unravel_muzzona.kz.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/unravel.jpeg",
 				"released_at": "2022-07-03"
 			},
 			{
@@ -315,14 +315,14 @@
 					}
 				],
 				"title": "I WANT A BILLION",
-				"audio_file": "http://localhost:3000/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/i_want_a_billion.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/i_want_a_billion.jpeg",
 				"released_at": "2022-07-03"
 			}
 		],
 		"title": "Japan hits",
 		"description": "Хиты японский исполнителей",
-		"cover": "http://localhost:3000/media/playlists/covers/japan_hits.png"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/japan_hits.png"
 	},
 	{
 		"id": 7,
@@ -336,8 +336,8 @@
 					}
 				],
 				"title": "Captain",
-				"audio_file": "http://localhost:3000/media/tracks/audio/miyagi_-_captain_muzati.net.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/captain.jpg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/miyagi_-_captain_muzati.net.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/captain.jpg",
 				"released_at": "2019-06-12"
 			},
 			{
@@ -349,8 +349,8 @@
 					}
 				],
 				"title": "Live Another Day",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Kordhell_-_Death_Bound_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/phonkageddon.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Kordhell_-_Death_Bound_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/phonkageddon.jpeg",
 				"released_at": "2021-05-06"
 			},
 			{
@@ -362,8 +362,8 @@
 					}
 				],
 				"title": "34+35",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Ariana_Grande_-_3435.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/3435.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Ariana_Grande_-_3435.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/3435.jpeg",
 				"released_at": "2022-07-02"
 			},
 			{
@@ -375,8 +375,8 @@
 					}
 				],
 				"title": "I WANT A BILLION",
-				"audio_file": "http://localhost:3000/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/i_want_a_billion.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/i_want_a_billion.jpeg",
 				"released_at": "2022-07-03"
 			},
 			{
@@ -388,14 +388,14 @@
 					}
 				],
 				"title": "God's menu",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Stray_Kids_-_Gods_Menu_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/gods_menu.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Stray_Kids_-_Gods_Menu_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/gods_menu.jpeg",
 				"released_at": "2022-07-03"
 			}
 		],
 		"title": "Random Music 3",
 		"description": "Рандомная подборка треков",
-		"cover": "http://localhost:3000/media/playlists/covers/random3.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/random3.jpeg"
 	},
 	{
 		"id": 8,
@@ -409,8 +409,8 @@
 					}
 				],
 				"title": "Небо",
-				"audio_file": "http://localhost:3000/media/tracks/audio/MiyaGi_Nebo.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/Miyagi_nebo_cover.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/MiyaGi_Nebo.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/Miyagi_nebo_cover.jpeg",
 				"released_at": "2016-05-11"
 			},
 			{
@@ -422,8 +422,8 @@
 					}
 				],
 				"title": "Captain",
-				"audio_file": "http://localhost:3000/media/tracks/audio/miyagi_-_captain_muzati.net.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/captain.jpg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/miyagi_-_captain_muzati.net.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/captain.jpg",
 				"released_at": "2019-06-12"
 			},
 			{
@@ -435,8 +435,8 @@
 					}
 				],
 				"title": "Orange Sunset",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Andy_Panda_-_Orange_Sunset_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/orange_sunset.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Andy_Panda_-_Orange_Sunset_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/orange_sunset.jpeg",
 				"released_at": "2019-03-11"
 			},
 			{
@@ -452,8 +452,8 @@
 					}
 				],
 				"title": "Endorphine",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Andy_Panda_Miyagi_-_Endorphin_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/endorphine.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Andy_Panda_Miyagi_-_Endorphin_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/endorphine.jpeg",
 				"released_at": "2019-03-11"
 			},
 			{
@@ -465,8 +465,8 @@
 					}
 				],
 				"title": "В темноте",
-				"audio_file": "http://localhost:3000/media/tracks/audio/%D0%A2%D0%B0%D0%B8%D0%BC%D1%81%D0%BA%D0%B2%D0%B5%D1%80_-_%D0%92_%D0%A2%D0%95%D0%9C%D0%9D%D0%9E%D0%A2%D0%95.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/v-temnote.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/%D0%A2%D0%B0%D0%B8%D0%BC%D1%81%D0%BA%D0%B2%D0%B5%D1%80_-_%D0%92_%D0%A2%D0%95%D0%9C%D0%9D%D0%9E%D0%A2%D0%95.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/v-temnote.jpeg",
 				"released_at": "2022-07-02"
 			},
 			{
@@ -478,14 +478,14 @@
 					}
 				],
 				"title": "Самоконтроль",
-				"audio_file": "http://localhost:3000/media/tracks/audio/TAjjMSKVER_Toni_Raut_-_Samokontrol_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/samocontrol.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/TAjjMSKVER_Toni_Raut_-_Samokontrol_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/samocontrol.jpeg",
 				"released_at": "2022-07-02"
 			}
 		],
 		"title": "Русские исполнители",
 		"description": "Подборка треков от русских исполнителей",
-		"cover": "http://localhost:3000/media/playlists/covers/russian_artists.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/russian_artists.jpeg"
 	},
 	{
 		"id": 9,
@@ -499,8 +499,8 @@
 					}
 				],
 				"title": "34+35",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Ariana_Grande_-_3435.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/3435.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Ariana_Grande_-_3435.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/3435.jpeg",
 				"released_at": "2022-07-02"
 			},
 			{
@@ -512,8 +512,8 @@
 					}
 				],
 				"title": "positions",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Ariana_Grande_-_positions_71363951.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/positions.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Ariana_Grande_-_positions_71363951.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/positions.jpeg",
 				"released_at": "2022-07-02"
 			},
 			{
@@ -525,8 +525,8 @@
 					}
 				],
 				"title": "unravel",
-				"audio_file": "http://localhost:3000/media/tracks/audio/tk-from-ling-tosite-sigure-unravel_muzzona.kz.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/unravel.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/tk-from-ling-tosite-sigure-unravel_muzzona.kz.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/unravel.jpeg",
 				"released_at": "2022-07-03"
 			},
 			{
@@ -538,8 +538,8 @@
 					}
 				],
 				"title": "I WANT A BILLION",
-				"audio_file": "http://localhost:3000/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/i_want_a_billion.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/1549976483_kohh-i-want-a-billion-feat_-taka-2019.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/i_want_a_billion.jpeg",
 				"released_at": "2022-07-03"
 			},
 			{
@@ -551,8 +551,8 @@
 					}
 				],
 				"title": "God's menu",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Stray_Kids_-_Gods_Menu_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/gods_menu.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Stray_Kids_-_Gods_Menu_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/gods_menu.jpeg",
 				"released_at": "2022-07-03"
 			},
 			{
@@ -564,8 +564,8 @@
 					}
 				],
 				"title": "How you like that",
-				"audio_file": "http://localhost:3000/media/tracks/audio/blackpink-how-you-like-that.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/How_You_Like_That.png",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/blackpink-how-you-like-that.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/How_You_Like_That.png",
 				"released_at": "2022-07-03"
 			},
 			{
@@ -577,8 +577,8 @@
 					}
 				],
 				"title": "What A Wonderfull World",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Louis_Armstrong_-_What_A_Wonderfull_World.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/Louis_Armstrong.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Louis_Armstrong_-_What_A_Wonderfull_World.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/Louis_Armstrong.jpeg",
 				"released_at": "2022-07-02"
 			},
 			{
@@ -590,14 +590,14 @@
 					}
 				],
 				"title": "runnin",
-				"audio_file": "http://localhost:3000/media/tracks/audio/21_Savage_-_Runnin_feat._Metro_Boomin.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/runnin.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/21_Savage_-_Runnin_feat._Metro_Boomin.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/runnin.jpeg",
 				"released_at": "2022-07-09"
 			}
 		],
 		"title": "Иностранные исполнители",
 		"description": "Подборка треков иностранных исполнителей",
-		"cover": "http://localhost:3000/media/playlists/covers/foreign_artists.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/foreign_artists.jpeg"
 	},
 	{
 		"id": 10,
@@ -611,8 +611,8 @@
 					}
 				],
 				"title": "Небо",
-				"audio_file": "http://localhost:3000/media/tracks/audio/MiyaGi_Nebo.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/Miyagi_nebo_cover.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/MiyaGi_Nebo.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/Miyagi_nebo_cover.jpeg",
 				"released_at": "2016-05-11"
 			},
 			{
@@ -624,8 +624,8 @@
 					}
 				],
 				"title": "Orange Sunset",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Andy_Panda_-_Orange_Sunset_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/orange_sunset.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Andy_Panda_-_Orange_Sunset_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/orange_sunset.jpeg",
 				"released_at": "2019-03-11"
 			},
 			{
@@ -637,8 +637,8 @@
 					}
 				],
 				"title": "Wig Split",
-				"audio_file": "http://localhost:3000/media/tracks/audio/Kordhell_-_Wig_Split_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/phonkageddon_XGodELS.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/Kordhell_-_Wig_Split_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/phonkageddon_XGodELS.jpeg",
 				"released_at": "2021-05-06"
 			},
 			{
@@ -650,8 +650,8 @@
 					}
 				],
 				"title": "В темноте",
-				"audio_file": "http://localhost:3000/media/tracks/audio/%D0%A2%D0%B0%D0%B8%D0%BC%D1%81%D0%BA%D0%B2%D0%B5%D1%80_-_%D0%92_%D0%A2%D0%95%D0%9C%D0%9D%D0%9E%D0%A2%D0%95.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/v-temnote.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/%D0%A2%D0%B0%D0%B8%D0%BC%D1%81%D0%BA%D0%B2%D0%B5%D1%80_-_%D0%92_%D0%A2%D0%95%D0%9C%D0%9D%D0%9E%D0%A2%D0%95.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/v-temnote.jpeg",
 				"released_at": "2022-07-02"
 			},
 			{
@@ -663,8 +663,8 @@
 					}
 				],
 				"title": "Самоконтроль",
-				"audio_file": "http://localhost:3000/media/tracks/audio/TAjjMSKVER_Toni_Raut_-_Samokontrol_musmore.com.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/samocontrol.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/TAjjMSKVER_Toni_Raut_-_Samokontrol_musmore.com.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/samocontrol.jpeg",
 				"released_at": "2022-07-02"
 			},
 			{
@@ -676,13 +676,13 @@
 					}
 				],
 				"title": "runnin",
-				"audio_file": "http://localhost:3000/media/tracks/audio/21_Savage_-_Runnin_feat._Metro_Boomin.mp3",
-				"cover": "http://localhost:3000/media/tracks/covers/runnin.jpeg",
+				"audio_file": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/audio/21_Savage_-_Runnin_feat._Metro_Boomin.mp3",
+				"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/tracks/covers/runnin.jpeg",
 				"released_at": "2022-07-09"
 			}
 		],
 		"title": "Random Music 4",
 		"description": "Рандомная подборка треков",
-		"cover": "http://localhost:3000/media/playlists/covers/random4.jpeg"
+		"cover": "http://webexam2023.std-1723.ist.mospolytech.ru/media/playlists/covers/random4.jpeg"
 	}
 ]
