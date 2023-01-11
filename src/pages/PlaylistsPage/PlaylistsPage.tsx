@@ -21,10 +21,7 @@ const PlaylistsPage: FC = () => {
 				<ul className={styles.list}>
 					{playlists?.map((playlist) => (
 						<li className={styles.item} key={playlist.id}>
-							<Link
-								to={`/playlists/${playlist.id}`}
-								className={styles.card}
-							>
+							<div className={styles.card}>
 								<img
 									className={styles.image}
 									src={playlist.cover}
@@ -32,7 +29,13 @@ const PlaylistsPage: FC = () => {
 									height="250"
 								/>
 								<p className={styles.text}>{playlist.title}</p>
-							</Link>
+								<Link
+									className={styles.button}
+									to={`/playlists/${playlist.id}`}
+								>
+									Открыть
+								</Link>
+							</div>
 						</li>
 					))}
 				</ul>

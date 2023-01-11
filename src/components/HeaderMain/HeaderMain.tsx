@@ -15,9 +15,9 @@ const HeaderMain: FC<HeaderProps> = () => {
 					<Link to="/" className={styles.text}>
 						Павел
 					</Link>
-					<button className={styles.button}>
-						<Link to="/auth">Выйти</Link>
-					</button>
+					<Link className={styles.button} to="/auth">
+						Выйти
+					</Link>
 				</div>
 				<nav
 					className={cn(styles.nav, {
@@ -52,6 +52,24 @@ const HeaderMain: FC<HeaderProps> = () => {
 							>
 								Плейлисты
 							</NavLink>
+						</li>
+						<li className={styles.item}>
+							<a
+								href="/api/playlists.json"
+								className={styles.link}
+							>
+								JSON
+							</a>
+						</li>
+						<li className={styles.item}>
+							<a
+								href="https://github.com/Haskiro/web-exam-3sem"
+								className={styles.link}
+								target="_blank"
+								rel="noreferrer"
+							>
+								github
+							</a>
 						</li>
 					</ul>
 				</nav>
