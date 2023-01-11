@@ -33,7 +33,7 @@ const PlaylistsPage: FC = () => {
 									className={styles.button}
 									to={`/playlists/${playlist.id}`}
 								>
-									Открыть
+									Открыть плейлист
 								</Link>
 							</div>
 						</li>
