@@ -1,5 +1,4 @@
 import { FC, FormEvent, useState } from "react";
-import Spinner from "@components/Spinner";
 import { useNavigate } from "react-router-dom";
 import styles from "./RegisterForm.module.scss";
 

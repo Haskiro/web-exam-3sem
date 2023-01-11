@@ -1,8 +1,7 @@
 import { FC, useEffect, useMemo, useState } from "react";
-import Spinner from "@components/Spinner";
 import { useAppDispatch, useAppSelector } from "@store/hooks";
 import { fetchPlaylists } from "@store/slices/playlistsSlice";
-import { Input } from "antd";
+import { Input, Spin } from "antd";
 import cn from "classnames";
 import { Link } from "react-router-dom";
 import styles from "./PlaylistsPage.module.scss";
@@ -101,7 +100,17 @@ const PlaylistsPage: FC = () => {
 					</ul>
 				)
 			) : null}
-			{status === "loading" ? <Spinner /> : null}
+			{status === "loading" ? (
+				<Spin
+					tip="Loading"
+					size="large"
+					style={{
+						margin: "0px auto",
+						display: "block",
+						marginTop: "20px",
+					}}
+				/>
+			) : null}
 		</div>
 	);
 };
