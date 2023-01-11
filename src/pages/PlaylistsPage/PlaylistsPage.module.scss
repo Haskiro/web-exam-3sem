@@ -8,9 +8,10 @@
 	font-size: 1.4rem;
 	line-height: 1.2;
 	font-weight: 700;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 }
 .list {
+	margin-top: 20px;
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	gap: 30px;
@@ -71,4 +72,44 @@
 		color: cyan;
 		transition: 0.1s ease;
 	}
+}
+
+.control {
+	&Panel {
+		display: flex;
+		justify-content: center;
+		gap: 10px;
+		@media (max-width: 768px) {
+			flex-direction: column;
+			align-items: center;
+		}
+	}
+	&Buttons {
+		display: flex;
+		gap: 10px;
+		&Item {
+			background: none;
+			border: 1px solid lightgray;
+			cursor: pointer;
+			border-radius: 6px;
+			padding: 10px 20px;
+			cursor: pointer;
+			font-size: 1rem;
+			white-space: nowrap;
+			&:hover {
+				color: cyan;
+			}
+			&Checked {
+				color: cyan;
+			}
+		}
+	}
+	&Input {
+	}
+}
+
+.result {
+	text-align: center;
+	margin-top: 20px;
+	font-size: 1.2rem;
 }
