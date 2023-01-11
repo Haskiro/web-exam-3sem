@@ -1,11 +1,13 @@
 import { configureStore } from "@reduxjs/toolkit";
-// ...
+import playlistDetailsReducer from "@store/slices/playlistDetailsSlice";
+import playlistsReducer from "@store/slices/playlistsSlice";
 
 export const store = configureStore({
-	reducer: {},
+	reducer: {
+		playlists: playlistsReducer,
+		playlistDetails: playlistDetailsReducer,
+	},
 });
 
-// Infer the `RootState` and `AppDispatch` types from the store itself
 export type RootState = ReturnType<typeof store.getState>;
-// Inferred type: {posts: PostsState, comments: CommentsState, users: UsersState}
 export type AppDispatch = typeof store.dispatch;
