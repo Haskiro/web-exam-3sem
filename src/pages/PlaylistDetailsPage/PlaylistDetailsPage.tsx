@@ -1,12 +1,14 @@
-import { FC, useEffect } from "react";
+import { FC, useEffect, useState } from "react";
 import TrackList from "@components/TrackList";
 import { IComment } from "@interfaces/comment.interface";
+import { nanoid } from "@reduxjs/toolkit";
 import { useAppDispatch, useAppSelector } from "@store/hooks";
 import {
+	addNewComment,
 	fetchComments,
 	fetchPlaylistById,
 } from "@store/slices/playlistDetailsSlice";
-import { Avatar, List, Spin } from "antd";
+import { Avatar, Button, Form, Input, List, Spin } from "antd";
 import { useParams } from "react-router-dom";
 import styles from "./PlaylistDetailsPage.module.scss";
 
@@ -16,6 +18,16 @@ const PlaylistDetailsPage: FC = () => {
 	const playlist = useAppSelector((state) => state.playlistDetails.playlist);
 	const status = useAppSelector((state) => state.playlistDetails.status);
 	const comments = useAppSelector((state) => state.playlistDetails.comments);
+	const [newComment, setNewComment] = useState<string>("");
+
+	const [form] = Form.useForm();
+	const buttonItemLayout = {
+		wrapperCol: { span: 14, offset: 6 },
+	};
+	const formItemLayout = {
+		labelCol: { span: 6 },
+		wrapperCol: { span: 14 },
+	};
 
 	useEffect(() => {
 		dispatch(fetchPlaylistById(id as string));
@@ -53,15 +65,43 @@ const PlaylistDetailsPage: FC = () => {
 							renderItem={(item) => (
 								<List.Item>
 									<List.Item.Meta
-										avatar={
-											<Avatar src="https://joeschmoe.io/api/v1/random" />
-										}
+										avatar={<Avatar src="" />}
 										title={item.author}
 										description={item.comment}
 									/>
 								</List.Item>
 							)}
 						/>
+						<Form
+							{...formItemLayout}
+							layout="horizontal"
+							form={form}
+						>
+							<Form.Item label="Оставить комментарий:">
+								<Input
+									placeholder="Текст комментария"
+									onChange={(
+										e: React.ChangeEvent<HTMLInputElement>
+									) => setNewComment(e.target.value)}
+								/>
+							</Form.Item>
+							<Form.Item {...buttonItemLayout}>
+								<Button
+									type="primary"
+									onClick={() =>
+										dispatch(
+											addNewComment({
+												id: nanoid(),
+												author: "Павел",
+												comment: newComment,
+											})
+										)
+									}
+								>
+									Отправить
+								</Button>
+							</Form.Item>
+						</Form>
 					</div>
 				</>
 			) : null}

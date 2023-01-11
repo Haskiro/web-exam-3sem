@@ -1,3 +1,4 @@
+import { stat } from "fs";
 import { IComment } from "@interfaces/comment.interface";
 import { IPlaylist } from "@interfaces/playlist.interface";
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
@@ -26,6 +27,17 @@ export const fetchPlaylistById = createAsyncThunk(
 	}
 );
 
+// export const addNewComment = createAsyncThunk(
+// 	"playlistDetails/addNewComment",
+// 	async (comment: IComment) => {
+// 		const response = await axios.post(
+// 			`${process.env.REACT_APP_API}/comments.json/`,
+// 			{ adfa: "adfjaf" }
+// 		);
+// 		return response.data;
+// 	}
+// );
+
 export const fetchComments = createAsyncThunk(
 	"playlistDetails/fetchComments",
 	async () => {
@@ -39,7 +51,20 @@ export const fetchComments = createAsyncThunk(
 export const playlistDetailsSlice = createSlice({
 	name: "playlistDetails",
 	initialState,
-	reducers: {},
+	reducers: {
+		addNewComment: (state, action: PayloadAction<IComment>) => {
+			state.comments = [...state.comments, action.payload];
+		},
+		editComment: (
+			state,
+			action: PayloadAction<{ id: string | number; comment: string }>
+		) => {
+			const commentIndex = state.comments.findIndex(
+				(item) => item.id === action.payload.id
+			);
+			state.comments[commentIndex].comment = action.payload.comment;
+		},
+	},
 	extraReducers(builder) {
 		builder
 			.addCase(fetchPlaylistById.pending, (state) => {
@@ -72,6 +97,6 @@ export const playlistDetailsSlice = createSlice({
 });
 
 // Action creators are generated for each case reducer function
-export const {} = playlistDetailsSlice.actions;
+export const { addNewComment, editComment } = playlistDetailsSlice.actions;
 
 export default playlistDetailsSlice.reducer;

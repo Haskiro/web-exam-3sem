@@ -48,6 +48,9 @@
 .body {
 }
 .comments {
+	@media print {
+		display: none;
+	}
 	&Heading {
 		margin-bottom: 10px;
 		font-size: 1.2rem;
