@@ -1,6 +1,7 @@
 # Web Exam. Topic Music App
 
 Web app for listerning music and find some ready playlists
+[hosting](http://webexam2023.std-1723.ist.mospolytech.ru/)
 
 **Client:**
 
